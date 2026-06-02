@@ -1,0 +1,6 @@
+{
+  "name": "Community Medicine Quiz",
+  "description": "A 40-question multiple-choice quiz covering public health, epidemiology, and preventive medicine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
